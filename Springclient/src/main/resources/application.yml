@@ -1,0 +1,8 @@
+server:
+    port: 8013
+spring:
+    application:
+        name: spring-boot-client
+spring-boot-server.name: myfirst-springmvc-datajpa
+Region-service.username: service-user
+Region-service.password: 3b99fef5-8b7d-4984-a3d6-124c26914ed7

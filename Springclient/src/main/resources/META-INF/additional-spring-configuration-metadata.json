@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring-boot-server.name",
+      "type": "java.lang.String",
+      "description": "Description for spring-boot-server.name."
+    },
+    {
+      "name": "spring-boot-server.name",
+      "type": "java.lang.String",
+      "description": "Description for spring-boot-server.name."
+    }
+  ] }
